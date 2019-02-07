@@ -12,17 +12,17 @@ Once the **Resource Dashboard** loads, you are presented with tabular budget dat
 
 ![Resource Dashboard](images/resource_dashboard.png)
 
-## Forecasted Cost
+### Forecasted Cost
 
-Using **Yotascales** predictive modeling, a forecasted cost can now be presented. This analysis is an indicator of whether, by the end of the month being viewed, your cost will exceed allocated the budget for this **Perspective**. 
+Using **Yotascale'**s predictive modeling, a forecasted cost can now be presented. This analysis is an indicator of whether, by the end of the month being viewed, your cost will exceed allocated the budget for this **Perspective**. 
 
-## Forecasted Cost vs Budget
+### Forecasted Cost vs Budget
 
 Yotascale offers a visual indicator of whether your forecasted cost will exceed your allocated budget for this **Perspective**. Scroll over the **Forecasted Cost vs Budget** bar to see a popover detailing the forecasted cost versus budget analysis, including an over or under percentage. 
 
 ![Forecasted Detail](images/forecast_vs_budget_details.png)
 
-## Forecasted Cost Detailed Summmary
+### Forecasted Cost Detailed Summmary
 
 The **Forecated Cost Summary** provides you with both a cost summary analysis of your forcasted cost for the selected month versus your current budget, as well as a graph that charts the cost increases over time. 
 
