@@ -28,9 +28,8 @@ The **Forecated Cost Summary** provides you with both a cost/summary analysis of
 
 Follow these steps to view the **Forecasted Cost Summary**:
 
-1. Click the **Perspective** name. 
-2. A screen loads that contains the historical cost for the **Perspective**.
-3. Click the **Forecasting and Budget** button. 
+1. Click the **Perspective** name. A screen loads that contains the historical cost for the **Perspective**.
+2. Click the **Forecasting and Budget** button. 
 
 ![Historical Cost](images/historical_cost.png)
 
@@ -56,11 +55,8 @@ Mouse over the graph at any point to display a popover that provides more detail
 ## Features and Benefits
 
 - **Forecast Cost For Your Teams**:  Forecast your cost for a given month or quarter for any **Perspective**. This can provide you with a granular analysis of future costs for any business unit or application or team. 
-
 - **Control Allocated Budgets**: The **Resource Dashboard** enables you to keep your budget current and provides the base from which the predictive analysis will be made. 
-
 - **Track Cost Relative To Budget** : The cost for monthly or quarterly time periods can be tracked and analyzed. 
-
 - **Proactive Notifications**: Whenever costs exceed budget, a notification can be sent to inform you that you are currently exceeding your budget. 
 
 
