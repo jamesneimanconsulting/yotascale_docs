@@ -8,7 +8,7 @@ The **Resource Dashboard** provides a quick overview of your costs, budget and f
 
 ![Analytics Button](images/main_nav_bar.png)
 
-Once the **Resource Dashboard** loads, you are presented with tabular budget data for the **Perspectives** you established when configuring Yotascale for your orgqnization. Each **Perspective** displays its *Monthly Budget*, *Cost*, *Cost Vs Budget*, *Forecasted Cost*, *Forecasted Cost Vs Budget* and *Last 30 Days*, which indicates if costs are trending upward or downward.
+Once the **Resource Dashboard** loads, you are presented with tabular budget data for the **Perspectives** you established when configuring Yotascale for your organization. Each **Perspective** displays its *Monthly Budget*, *Cost*, *Cost Vs Budget*, *Forecasted Cost*, *Forecasted Cost vs Budget* and *Last 30 Days* (which indicates if costs are trending upward or downward).
 
 ![Resource Dashboard](images/resource_dashboard.png)
 
