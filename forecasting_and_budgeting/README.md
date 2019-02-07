@@ -26,7 +26,7 @@ Yotascale offers a visual indicator of whether your forecasted cost will exceed 
 
 The **Forecated Cost Summary** provides you with both a cost/summary analysis of your forcasted cost for the selected month versus your current budget, as well as a graph that charts the cost increases over time. 
 
-Follow these steps to view the **Forecasted Cost Summary**
+Follow these steps to view the **Forecasted Cost Summary**:
 
 1. Click the **Perspective** name. 
 2. A screen loads that contains the historical cost for the **Perspective**.
@@ -49,23 +49,19 @@ The **Forecasted Cost Summary** is displayed. This view provides you with a cost
 
 ![Forecast Summary](images/forecast_budget_summary.png)
 
-Hovering over the graph at any point will display a popover that provides more details about the **Prediction Confidence Level**, including the corresponding range for each forecasted confidence level. 
+Mouse over the graph at any point to display a popover that provides more details about the **Prediction Confidence Level**, including the corresponding range for each forecasted confidence level. 
 
 ![Forecast Confidence](images/confidence_percentage.png)
 
 ## Features and Benefits
 
-**Forecast Cost For Your Teams**  
-Forecast your cost for a given month or quarter for any **Perspective**. This can provide you with a granular analysis of future costs for any business unit or application or team. 
+- **Forecast Cost For Your Teams**:  Forecast your cost for a given month or quarter for any **Perspective**. This can provide you with a granular analysis of future costs for any business unit or application or team. 
 
-**Control Allocated Budgets**  
-The **Resource Dashboard** enables you to keep your budget current and provides the base from which the predictive analysis will be made. 
+- **Control Allocated Budgets**: The **Resource Dashboard** enables you to keep your budget current and provides the base from which the predictive analysis will be made. 
 
-**Track Cost Relative To Budget**  
-The cost for monthly or quarterly time periods can be tracked and analyzed. 
+- **Track Cost Relative To Budget** : The cost for monthly or quarterly time periods can be tracked and analyzed. 
 
-**Proactive Notifications**  
-Whenever costs exceed budget, a notification can be sent to inform you that you are currently exceeding your budget. 
+- **Proactive Notifications**: Whenever costs exceed budget, a notification can be sent to inform you that you are currently exceeding your budget. 
 
 
 
